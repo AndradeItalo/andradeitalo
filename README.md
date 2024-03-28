@@ -6,7 +6,7 @@
 
 
 
-## Portfolio
+## Important Projects
 
 - [KanbanWeb + Dashboard & KanbanMobile](https://github.com/AndradeItalo/Desafio-KanbanTT)
 - [Sistema de Scraping - Coleta de Dados na KABUM](https://github.com/AndradeItalo/Sistema_Scraping_Puppeteer-JavaScript)
